@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:project_coffe_shop/features/login/login_screen.dart';
 
 void main() {
-  runApp(const GentoCoffeeShop());
+  runApp(const RFCoffeeShop());
 }
 
-class GentoCoffeeShop extends StatelessWidget {
-  const GentoCoffeeShop({super.key});
+class RFCoffeeShop extends StatelessWidget {
+  const RFCoffeeShop({super.key});
 
   @override
   Widget build(BuildContext context) {

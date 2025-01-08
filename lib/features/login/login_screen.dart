@@ -51,7 +51,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const Text(
-                    'AR Shoes Care',
+                    'RF Coffe Shop',
                     style: TextStyle(
                       fontSize: 40,
                       fontWeight: FontWeight.bold,
@@ -146,7 +146,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
                   const SizedBox(height: 16),
                   const Text(
-                    '© 2025 AR Shoes care',
+                    '© 2025 RF Coffe Shop',
                     style: TextStyle(color: Colors.white70, fontSize: 12),
                   ),
                 ],

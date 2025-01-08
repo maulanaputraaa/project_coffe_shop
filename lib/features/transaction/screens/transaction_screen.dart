@@ -88,7 +88,7 @@ class _TransactionScreenState extends State<TransactionScreen> {
             const Icon(Icons.local_cafe, color: Colors.brown),
             const SizedBox(width: 8),
             const Text(
-              'Gento Coffee Shop',
+              'RF Coffee Shop',
               style: TextStyle(color: Colors.brown, fontWeight: FontWeight.bold),
             ),
           ],
